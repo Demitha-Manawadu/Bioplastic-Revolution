@@ -4,7 +4,7 @@
 Welcome to **Ocean's Gift**, a sustainable initiative tackling plastic pollution by developing eco-friendly bioplastics using seaweed. Our project aims to reduce plastic waste, protect marine ecosystems, and support coastal communities in Sri Lanka.
 
 ## 🚀 Project Overview
-Ocean's Gift focuses on creating biodegradable plastic films from locally sourced seaweed. This bioplastic serves as a sustainable alternative to traditional plastic used for packaging and food storage. By collaborating with coastal communities, we ensure a continuous supply of seaweed while empowering local economies.
+Ocean's Gift focuses on creating biodegradable plastic cling films and plastic bags from locally sourced seaweed. This bioplastic serves as a sustainable alternative to traditional plastic used for packaging and food storage. By collaborating with coastal communities, we ensure a continuous supply of seaweed while empowering local economies.
 
 ## 🌊 Problem Statement
 - Sri Lanka discards **12 million lunch sheets** and **4 million plastic bags** daily.
