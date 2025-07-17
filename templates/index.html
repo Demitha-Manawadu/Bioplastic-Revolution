@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Water Quality Classifier</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 50px; background-color: #f2f2f2; }
+        .container { background: white; padding: 20px; border-radius: 10px; width: 400px; margin: auto; }
+        input, button { width: 100%; padding: 10px; margin: 10px 0; font-size: 16px; }
+        .result { font-weight: bold; font-size: 18px; margin-top: 20px; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>🌊 Water Quality Predictor</h2>
+        <form method="POST">
+            <label>pH Value:</label>
+            <input type="text" name="ph" required>
+
+            <label>Solids (TDS in mg/L):</label>
+            <input type="text" name="solids" required>
+
+            <label>Turbidity (NTU):</label>
+            <input type="text" name="turbidity" required>
+
+            <button type="submit">Predict</button>
+        </form>
+
+        {% if prediction %}
+            <div class="result">🔎 {{ prediction }}</div>
+        {% endif %}
+    </div>
+</body>
+</html>
+

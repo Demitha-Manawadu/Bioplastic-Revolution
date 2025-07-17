@@ -1,0 +1,13 @@
+# Ignore virtual environment
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Model and image outputs
+*.pt
+*.png
+
+# Mac & system files
+.DS_Store
